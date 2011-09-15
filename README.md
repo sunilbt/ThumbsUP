@@ -1,3 +1,7 @@
+ThumbsUP
+========
+An educational app that uses real world examples to educate kids topics such as math and physics.
+
 The Team
 ========
 * **Scrum Master:** Caleb Brandon
